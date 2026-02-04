@@ -1,0 +1,11 @@
+serverless-app-development-deployment/
+│
+├── terraform/
+│   ├── provider.tf
+│   ├── variables.tf
+│   ├── lambda.tf
+│   ├── api-gateway.tf
+│   ├── outputs.tf
+│
+├── cicd/
+│   └── github-actions.yml
